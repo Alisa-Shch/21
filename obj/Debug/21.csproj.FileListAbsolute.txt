@@ -1,0 +1,22 @@
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\bin\Debug\21.exe.config
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\bin\Debug\21.exe
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\bin\Debug\21.pdb
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.csproj.AssemblyReference.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\_21.Form1.resources
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\_21.Properties.Resources.resources
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.csproj.GenerateResource.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.exe
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\21\21\obj\Debug\21.pdb
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\bin\Debug\21.exe.config
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\bin\Debug\21.exe
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\bin\Debug\21.pdb
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.csproj.AssemblyReference.cache
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\_21.Form1.resources
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\_21.Properties.Resources.resources
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.csproj.GenerateResource.cache
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.exe
+C:\Users\Alisa\OneDrive\Документы\GitHub\21\21\obj\Debug\21.pdb
